@@ -11,8 +11,3 @@ Simple PHP + MySQL digital attendance system (XAMPP). Shows login, entry form, a
 - MySQL (via XAMPP)
 - HTML/CSS
 
-## Setup (quick)
-1. Clone repo:
-   ```bash
-   git clone https://github.com/YourUsername/digital_attendence.git
-
